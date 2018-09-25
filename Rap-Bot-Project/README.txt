@@ -15,10 +15,6 @@ main.py
 -> Example code to generate song is at bottom of file. (song is created when Song() object is created.)
 -> USES markovify LIBRARY
 
-Summative_GUI -> PROCESSING
--> Should run from start, requires no libraries
--> Displays commands at help.txt, and on screen
-
 - LIBRARIES NECESSARY for main.py text_manipulation.py:
 - nltk
 - markovify
